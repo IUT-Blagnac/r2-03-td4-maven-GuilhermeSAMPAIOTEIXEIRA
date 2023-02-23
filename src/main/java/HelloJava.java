@@ -4,7 +4,10 @@
  * @author LC
  */
 class HelloJava {
-	public String afficherCancan(){
-			return "Cancan";
+	public static void main(String[] args) {
+		System.out.println("Hello Blagnac");
+	}
+
+	public void afficherCancan(){
 	}
 }

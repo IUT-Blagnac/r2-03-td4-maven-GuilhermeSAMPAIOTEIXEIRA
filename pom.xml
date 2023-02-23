@@ -28,7 +28,8 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <!--Il faut modifier la ligne ci-dessous pour définir la classe qui sera considérées la principale-->
+              <mainClass>Main</mainClass>
             </manifest>
           </archive>
         </configuration>
