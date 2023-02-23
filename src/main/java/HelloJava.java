@@ -4,7 +4,7 @@
  * @author LC
  */
 class HelloJava {
-	public afficherCancan(){
-
+	public String afficherCancan(){
+			return "Cancan";
 	}
 }
